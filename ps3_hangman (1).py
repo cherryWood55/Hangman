@@ -94,8 +94,7 @@ def hangman(secretWord):
     * After each round, you should also display to the user the 
       partially guessed word so far, as well as letters that the 
       user has not yet guessed.
-
-    Follows the other limitations detailed in the problem write-up.
+      
     '''
 
     num = 8
